@@ -1,7 +1,6 @@
 +++
 title = 'Attivita'
 date = 2024-03-14T13:47:20+11:00
-draft = true
 +++
 
 ## Six Ways

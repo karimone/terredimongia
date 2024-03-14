@@ -2,7 +2,6 @@
 title = "Residenze d'artista"
 slug = "residenze"
 date = 2024-03-14T13:47:36+11:00
-draft = true
 +++
 
 

@@ -1,7 +1,6 @@
 +++
 title = 'Escursionismo'
 date = 2024-03-14T13:47:42+11:00
-draft = true
 +++
 
 ![Articolo di giornale](/articolo.jpg)

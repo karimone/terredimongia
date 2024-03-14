@@ -1,7 +1,6 @@
 +++
 title = 'Partnerships'
 date = 2024-03-14T13:47:49+11:00
-draft = true
 +++
 
 # I nostri Partners
