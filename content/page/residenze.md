@@ -15,7 +15,7 @@ I segni lasciati dall’uomo nelle diverse epoche, gli “scau” (essiccatoi di
 
 A causa della sua relativa marginalità dai principali circuiti culturali, il territorio presenta un'area fertile per l'implementazione di attività che possano avvicinare la popolazione residente con i linguaggi artistici contemporanei, generando una maggiore coscienza del patrimonio presente e favorendo nuovi rapporti di collaborazione tra artisti provenienti da contesti diversi tra loro.
 
-https://youtu.be/1y4TqWYwr6U?feature=shared
+{{< youtube id="1y4TqWYwr6U" >}}
 
 Tra le artiste e gli artisti coinvolti, Michele Bruna, Clara Daniele, Giacomo Laser, Martina Melilli, Francesca Cogni, Jacopo Rinaldi, Carlot-ta, Alessio Dutto.
 
