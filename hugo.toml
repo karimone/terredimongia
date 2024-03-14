@@ -1,0 +1,59 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "it"
+title = "Terre di Mongia"
+
+theme = "terredimongia"
+
+#googleAnalytics = "XXX"
+
+[Params]
+#  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Qui dobbiamo aggiungere qualcosa"
+  mainSections = ["post","posts"]
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = false
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = false
+  showRelatedPosts = false
+  hideAuthor = true
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  #name = "Some Person"
+  #website = "yourwebsite.com"
+  #email = "youremail@domain.com"
+  #facebook = "username"
+  #twitter = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+
+[[menu.main]]
+    name = "Attivita"
+    url = "page/attivita"
+    weight = 1
+
+[[menu.main]]
+    name = "Residenze"
+    url = "page/residenze/"
+    weight = 2
+
+[[menu.main]]
+    name = "Escursionismo"
+    url = "page/escursionismo/"
+    weight = 3
+
+[[menu.main]]
+    name = "Partnerships"
+    url = "page/partnerships/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contatti"
+    url = "page/contatti/"
+    weight = 5
