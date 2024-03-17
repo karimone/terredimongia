@@ -25,8 +25,7 @@ theme = "terredimongia"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  #name = "Karim Gorjux"
-  #website = "https://www.gorjux.net"
+  name = "Sandro Bozzolo"
   email = "terredimongia@gmail.com"
   facebook = "https://www.facebook.com/terredimongia"
   #twitter = "username"
@@ -52,8 +51,3 @@ theme = "terredimongia"
     name = "Partnerships"
     url = "page/partnerships/"
     weight = 4
-
-[[menu.main]]
-    name = "Contatti"
-    url = "page/contatti/"
-    weight = 5
