@@ -8,7 +8,7 @@ theme = "terredimongia"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Qui dobbiamo aggiungere qualcosa"
+  subtitle = "Associazione Culturale in movimento in Mombasiglio, Lisio, Scagnello, Battifollo e Viola"
   mainSections = ["post","posts"]
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
