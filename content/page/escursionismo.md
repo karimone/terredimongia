@@ -3,7 +3,9 @@ title = 'Escursionismo'
 date = 2024-03-14T13:47:42+11:00
 +++
 
-![Articolo di giornale](/articolo.jpg)
+---
+---
+{{< figure src="/articolo.jpg" title="Articolo su AlpiDOC" >}}
  
 Nell’inverno 2022, l’accompagnatore escursionistico Simone Rossi e il documentarista Sandro Bozzolo hanno tracciato una proposta di sentiero escursionistico della valle Mongia, un sentiero ad anello suddiviso in 5 tappe.
 
