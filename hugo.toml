@@ -25,12 +25,12 @@ theme = "terredimongia"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Karim Gorjux"
-  website = "https://www.gorjux.net"
-  #email = "youremail@domain.com"
-  #facebook = "username"
+  #name = "Karim Gorjux"
+  #website = "https://www.gorjux.net"
+  email = "terredimongia@gmail.com"
+  facebook = "https://www.facebook.com/terredimongia"
   #twitter = "username"
-  #instagram = "username"
+  instagram = "https://www.instagram.com/terre_di_mongia/"
   #youtube = "user/username" # or channel/channelname
 
 [[menu.main]]
